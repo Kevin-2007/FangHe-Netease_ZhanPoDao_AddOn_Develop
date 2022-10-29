@@ -1,0 +1,11 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "description": {
+            "identifier": "harrypotter:collage_hat"
+        },
+        "components": {
+            "minecraft:icon": "harrypotter:collage_hat"
+        }
+    }
+}

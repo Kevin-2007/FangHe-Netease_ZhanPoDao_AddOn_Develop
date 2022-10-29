@@ -1,0 +1,11 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "description": {
+            "identifier": "harrypotter:wizard_oak"
+        },
+        "components": {
+            "minecraft:icon": "harrypotter:wizard_oak"
+        }
+    }
+}

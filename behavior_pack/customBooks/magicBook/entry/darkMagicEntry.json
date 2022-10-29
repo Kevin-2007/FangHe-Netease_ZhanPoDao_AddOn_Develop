@@ -1,0 +1,9 @@
+{
+    "parent": "darkMagic",
+    "icon": "textures/logo/dark_magic",
+    "title": "黑魔法学习",
+    "pages": [{
+        "type": "textPage",
+        "content": "阿瓦达索命(Avada Kedavra)\n【不 可 饶 恕 咒】\n使用顺序: 右 上 左 下 右 上 左 右\n消耗魔力值: 50\n所需等级: 10\n经验:20\n黑暗值: 10\n\n\n使用该魔咒后将会彻底摧毁对方,你的灵魂也不再完整"
+    }]
+}

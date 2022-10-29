@@ -1,0 +1,37 @@
+{
+   "main" : {
+      "controls" : [
+         {
+            "attributePanel" : {
+               "anchor_from" : "top_right",
+               "anchor_to" : "top_right",
+               "controls" : [
+                  {
+                     "bg_img" : {
+                        "clip_direction" : "left",
+                        "clip_ratio" : 0.0,
+                        "layer" : 1,
+                        "nineslice_size" : [ 15.0, 15.0, 15.0, 15.0 ],
+                        "texture" : "textures/ui/book_frame",
+                        "type" : "image",
+                        "uv" : [ 0.0, 0.0 ]
+                     }
+                  },
+                  {
+                     "testData@presetUI.attributepre" : {
+                        "layer" : 2,
+                        "offset" : [ "0.0%+0.0px", "0.0%+0.0px" ],
+                        "size" : [ "80.0%+0.0px", 15 ]
+                     }
+                  }
+               ],
+               "layer" : 1,
+               "size" : [ "30.0%+0.0px", 100 ],
+               "type" : "panel"
+            }
+         }
+      ],
+      "type" : "screen"
+   },
+   "namespace" : "attributePanel"
+}

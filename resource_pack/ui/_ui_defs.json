@@ -1,0 +1,8 @@
+{
+    "ui_defs": [
+        "ui/attributePanel.json",
+        "ui/presetUI.json",
+        "ui/skillPanel.json",
+        "ui/netease_editor_template_namespace.json"
+    ]
+}

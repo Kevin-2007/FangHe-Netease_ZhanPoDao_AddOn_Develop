@@ -1,0 +1,24 @@
+{
+    "format_version": "1.10.0",
+    "minecraft:block": {
+        "description": {
+            "identifier": "harrypotter:magic_craftingtable",
+            "register_to_creative_menu": true
+        },
+        "components": {
+            "minecraft:explosion_resistance": {
+                "value": 10
+            },
+            "minecraft:block_light_absorption": {
+                "value": 5
+            },
+            "minecraft:loot": {
+                "table": "loot_tables/blocks/magic_craftingtable.json"
+            },
+            "netease:block_entity": {
+                "tick": false,
+                "movable": true
+            }
+        }
+    }
+}

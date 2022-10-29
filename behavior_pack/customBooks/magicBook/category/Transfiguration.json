@@ -1,0 +1,7 @@
+{
+    "title": "变形咒",
+    "content": "变形咒(Transfiguration)是变形的魔法\n其具体咒语根据所变事物的不同而有所不同",
+    "isLocked": true,
+    "parent": "page",
+    "icon": "textures/logo/change_magic"
+}

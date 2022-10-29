@@ -1,0 +1,16 @@
+{
+    "item": "harrypotter:magic_book",
+    "title1": "魔法之书",
+    "title2": "方盒工作室 出品",
+    "content": "右侧可以选择相对应的魔法进行学习\n每次学习会消耗一定的魔力值和魔法物品\n相应的，也可以提升经验并解锁魔法",
+    "titleArea": {
+        "offset": [-10, 0],
+        "textSize1": 9,
+        "textSize2": 8,
+        "padding": 1
+    },
+    "pageConfig": {
+        "subtitle": "by Kevin2007"
+    }
+
+}

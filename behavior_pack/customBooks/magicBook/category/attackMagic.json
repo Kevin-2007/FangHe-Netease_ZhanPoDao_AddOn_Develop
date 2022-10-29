@@ -1,0 +1,7 @@
+{
+    "title": "攻击咒",
+    "content": "攻击魔法(Attack Magic)是攻击的魔法\n主要用于攻击别人",
+    "isLocked": false,
+    "parent": "page",
+    "icon": "textures/logo/attack_magic"
+}

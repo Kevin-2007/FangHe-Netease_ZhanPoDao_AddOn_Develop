@@ -1,0 +1,15 @@
+{
+    "resource_pack_name": "vanilla",
+    "texture_data": {
+        "harrypotter:magic_craftingtable_top": {
+            "textures": "textures/blocks/magic_craftingtable_top"
+        },
+        "harrypotter:magic_craftingtable_side": {
+            "textures": "textures/blocks/magic_craftingtable_side"
+        },
+        "harrypotter:magic_craftingtable_bottom": {
+            "textures": "textures/blocks/magic_craftingtable_bottom"
+        }
+    },
+    "texture_name": "atlas.terrain"
+}

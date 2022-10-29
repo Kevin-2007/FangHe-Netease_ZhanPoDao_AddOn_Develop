@@ -1,0 +1,34 @@
+{
+    "parent": "attackMagic",
+    "icon": "textures/logo/attack_magic",
+    "title": "攻击型魔咒学习",
+    "pages": [{
+            "type": "textPage",
+            "content": "火焰熊熊(Incendio)\n使用顺序: 上 上 下\n消耗魔力值: 10\n所需等级: 3\n经验:5\n\n\n以投掷物落点为中心,生成11*11*11的火焰"
+        },
+        {
+            "type": "textPage",
+            "content": "锁腿咒(Locomotor Mortis)\n使用顺序: 上 右 下 左\n消耗魔力值: 5\n所需等级: 2\n经验: 10\n\n\n给予对方一个缓慢效果,不能移动"
+        },
+        {
+            "type": "textPage",
+            "content": "缴械咒(Expelliarmus)\n使用顺序: 下 上 右\n消耗魔力值: 5\n所需等级: 2\n经验: 4\n\n\n把对方手中的物品扔出来并击退"
+        },
+        {
+            "type": "textPage",
+            "content": "漂浮咒(WingardiumLeviosa)\n使用顺序: 上 左 上\n消耗魔力值: 1\n所需等级: 1\n经验: 1\n\n\n给予对方漂浮效果"
+        },
+        {
+            "type": "textPage",
+            "content": "燃烧咒(Furnunculus)\n使用顺序: 下 左 上\n消耗魔力值: 15\n所需等级: 3\n经验: 10\n\n\n给予对方燃烧效果"
+        },
+        {
+            "type": "textPage",
+            "content": "力松劲泄(Relashio)\n使用顺序: 上 左 左 上\n消耗魔力值: 7\n所需等级: 3\n经验: 10\n\n\n给予对方虚弱效果"
+        },
+        {
+            "type": "textPage",
+            "content": "霹雳爆炸(Confringo)\n使用顺序: 左 下 右 上\n消耗魔力值: 10\n所需等级: 5\n经验:3"
+        }
+    ]
+}

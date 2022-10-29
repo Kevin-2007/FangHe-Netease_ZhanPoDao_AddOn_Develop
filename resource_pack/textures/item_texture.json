@@ -1,0 +1,33 @@
+{
+    "resource_pack_name": "vanilla",
+    "texture_name": "atlas.items",
+    "texture_data": {
+        "harrypotter:wizard_oak": {
+            "textures": "textures/items/wizard_oak"
+        },
+        "harrypotter:magic_book": {
+            "textures": "textures/items/magic_book"
+        },
+        "harrypotter:collage_hat": {
+            "textures": "textures/items/collage_hat"
+        },
+        "harrypotter:iron_wizard": {
+            "textures": "textures/items/iron_wizard_oak"
+        },
+        "harrypotter:golden_wizard": {
+            "textures": "textures/items/golden_wizard_oak"
+        },
+        "harrypotter:diamond_wizard": {
+            "textures": "textures/items/diamond_wizard_oak"
+        },
+        "harrypotter:end_wizard": {
+            "textures": "textures/items/end_wizard_oak"
+        },
+        "harrypotter:crystal_wizard": {
+            "textures": "textures/items/crystal_wizard_oak"
+        },
+        "harrypotter:magic_broom_item": {
+            "textures": "textures/items/magic_broom"
+        }
+    }
+}

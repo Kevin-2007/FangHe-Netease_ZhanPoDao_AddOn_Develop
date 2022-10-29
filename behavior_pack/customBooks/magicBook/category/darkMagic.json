@@ -1,0 +1,7 @@
+{
+    "title": "黑魔法",
+    "content": "黑魔法(Dark Magic)是邪恶的魔法，以伤害别人为目的\n使用此类魔法时会使你内心的黑暗增加\n尤其是使用不可饶恕咒时，会让你的灵魂不再完整",
+    "isLocked": false,
+    "parent": "page",
+    "icon": "textures/logo/dark_magic"
+}

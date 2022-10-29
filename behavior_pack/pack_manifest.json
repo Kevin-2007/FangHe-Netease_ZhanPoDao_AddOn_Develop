@@ -1,0 +1,15 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "ZPDMod",
+        "name": "ZPDMod",
+        "uuid": "17687235-092b-46d8-b44d-d6eecce7be76",
+        "version": [0, 0, 1]
+    },
+    "modules": [{
+        "description": "ZPDMod",
+        "type": "data",
+        "uuid": "abe87650-c049-4e68-a6e1-ceea82699c05",
+        "version": [0, 0, 1]
+    }]
+}

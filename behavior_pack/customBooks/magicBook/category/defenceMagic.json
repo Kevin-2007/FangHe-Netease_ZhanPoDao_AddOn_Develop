@@ -1,0 +1,7 @@
+{
+    "title": "防御咒",
+    "content": "防御魔法(Defence Magic)是防御的魔法\n主要用于保护自己",
+    "isLocked": true,
+    "parent": "page",
+    "icon": "textures/logo/defense_magic"
+}

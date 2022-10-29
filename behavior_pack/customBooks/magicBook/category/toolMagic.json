@@ -1,0 +1,7 @@
+{
+    "title": "工具咒",
+    "content": "工具魔法(Tool Magic)可以帮助巫师做事情",
+    "isLocked": true,
+    "parent": "page",
+    "icon": "textures/logo/tool_magic"
+}

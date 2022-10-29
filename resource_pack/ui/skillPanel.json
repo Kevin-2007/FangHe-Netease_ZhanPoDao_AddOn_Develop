@@ -1,0 +1,34 @@
+{
+   "main" : {
+      "controls" : [
+         {
+            "skill" : {
+               "controls" : [
+                  {
+                     "skillGrid" : {
+                        "alpha" : 0.650,
+                        "anchor_from" : "bottom_middle",
+                        "anchor_to" : "top_middle",
+                        "collection_name" : "skill_grid",
+                        "grid_dimensions" : [ 2, 2 ],
+                        "grid_item_template" : "presetUI.skillPreset",
+                        "grid_rescaling_type" : "horizontal",
+                        "layer" : 1,
+                        "maximum_grid_items" : 4,
+                        "offset" : [ "0.0%+0.0px", 0.0 ],
+                        "propagate_alpha" : true,
+                        "size" : [ "50.0%+0.0px", 50 ],
+                        "type" : "grid"
+                     }
+                  }
+               ],
+               "layer" : 1,
+               "size" : [ "default", 100 ],
+               "type" : "panel"
+            }
+         }
+      ],
+      "type" : "screen"
+   },
+   "namespace" : "skillPanel"
+}

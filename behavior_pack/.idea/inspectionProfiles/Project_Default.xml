@@ -1,0 +1,98 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <Languages>
+        <language minSize="271" name="Python" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="JsonStandardCompliance" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="PyAugmentAssignmentInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyBroadExceptionInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyChainedComparisonsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoreConstantInTheMiddle" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyCompatibilityInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ourVersions">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="2.7" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyMandatoryEncodingInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyOldStyleClassesInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E251" />
+          <option value="E302" />
+          <option value="E501" />
+          <option value="E722" />
+          <option value="E303" />
+          <option value="W391" />
+          <option value="E101" />
+          <option value="E306" />
+          <option value="E731" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+          <option value="N803" />
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyStatementEffectInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyTypedDictInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="mod.client.ui.screenNode.ScreenNode.Init" />
+          <option value="super.*" />
+          <option value="entityradarScripts.modClient.ui.Radar.Radar.AddTouchEventHandler" />
+          <option value="ui.Radar.Radar.radarIconBase" />
+          <option value="ui.Radar.Radar.radarIcon" />
+          <option value="ui.Radar.Radar.radarIconBase0" />
+          <option value="mod.client.ui.screenNode.ScreenNode.getScreenSide" />
+          <option value="mod.client.ui.screenNode.ScreenNode.getScreenSize" />
+          <option value="clientSystem.entityradarClientSystem.EntityRadarClientSystem.GetPlatform" />
+          <option value="ui.infoWin.btn" />
+          <option value="mod.client.ui.screenNode.ScreenNode.radarFps" />
+          <option value="mod.client.ui.screenNode.ScreenNode.searchArgs" />
+          <option value="mod.client.ui.screenNode.ScreenNode.open" />
+          <option value="mod.client.ui.screenNode.ScreenNode.SetSprite" />
+          <option value="mod.client.ui.controls.baseUIControl.BaseUIControl.SetSprite" />
+          <option value="list.*" />
+          <option value="mod.client.ui.screenNode.ScreenNode.PowerSkill" />
+          <option value="mod.client.ui.screenNode.ScreenNode.MindSkill" />
+          <option value="mod.client.ui.screenNode.ScreenNode.RealitySkill" />
+          <option value="mod.client.ui.screenNode.ScreenNode.SoulSkill" />
+          <option value="mod.client.ui.screenNode.ScreenNode.SpaceSkill" />
+          <option value="mod.client.ui.screenNode.ScreenNode.TimeSkill" />
+          <option value="mod.client.ui.controls.buttonUIControl.AddTouchEventParams" />
+          <option value="mod.client.ui.controls.buttonUIControl.SetButtonTouchMoveCallback" />
+          <option value="infinitegloveScripts.nuoyanLib.client.ui.ButtonMovableScreenNode.AddTouchEventHandler" />
+          <option value="mod.client.system.clientSystem.ClientSystem.settingData" />
+          <option value="mod.client.ui.screenNode.ScreenNode.mindBtn" />
+          <option value="mod.client.ui.screenNode.ScreenNode.powerBtn" />
+          <option value="mod.client.ui.screenNode.ScreenNode.realityBtn" />
+          <option value="mod.client.ui.screenNode.ScreenNode.soulBtn" />
+          <option value="mod.client.ui.screenNode.ScreenNode.spaceBtn" />
+          <option value="mod.client.ui.screenNode.ScreenNode.*" />
+          <option value="infinitestoneScripts.modClient.clientSystem.infinitestoneClientSystem.InfiniteStoneClientSystem.gemBtns" />
+          <option value="mod.client.system.clientSystem.ClientSystem.updateSettingData" />
+          <option value="mod.client.system.clientSystem.ClientSystem.inlayStoneData" />
+          <option value="mod.server.system.serverSystem.ServerSystem.test" />
+          <option value="mod.server.system.serverSystem.ServerSystem.powerStoneMultiple" />
+          <option value="mod.client.system.clientSystem.ClientSystem.canGetStoneInlayScreenNode" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

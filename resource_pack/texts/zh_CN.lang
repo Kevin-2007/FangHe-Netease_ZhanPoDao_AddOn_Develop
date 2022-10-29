@@ -1,0 +1,11 @@
+item.harrypotter:wizard_oak.name=木制魔杖
+item.harrypotter:magic_book.name=魔法之书
+item.harrypotter:collage_hat.name=分院帽
+item.harrypotter:iron_wizard.name=铁魔杖
+item.harrypotter:golden_wizard.name=金魔杖
+item.harrypotter:diamond_wizard.name=钻石魔杖
+item.harrypotter:crystal_wizard.name=水晶魔杖
+item.harrypotter:end_wizard.name=无敌终结魔杖
+item.harrypotter:magic_broom_item.name=魔法扫帚
+
+tile.harrypotter:magic_craftingtable.name=魔法工作台
